@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# book_collection
-Repo that contains my book collection app
-=======
 # README
+## Niel Hong Book Collection
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -26,4 +23,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 45fb2c9 (Initial commit)
